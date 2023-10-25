@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/vue": "^2.0.0",
     "sass": "^1.69.4",
     "vue": "^3.3.4",
     "vuex": "^4.1.0"
